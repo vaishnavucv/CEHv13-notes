@@ -2,7 +2,7 @@
 #### **Certified Ethical Hacker (CEH v13) course modules along with their key objectives**. These modules are structured to align with the CEH v13 blueprint and the practical scenarios used in the **CEH Engage range**.
 
 ### **Module 01: Introduction to Ethical Hacking**
-- [x] Completed ✅
+- [ ] Pending ✔️
 - **Objectives:**
   - Understand core concepts of ethical hacking and the role of an ethical hacker.
   - Learn about different attack vectors and threat landscapes.
@@ -12,7 +12,7 @@
 ---
 
 ### **Module 02: Footprinting and Reconnaissance**
-- [x] Completed ✅
+- [ ] Pending ✔️
 - **Objectives:**
   - Perform active and passive reconnaissance.
   - Use tools like Maltego, Recon-ng, and theHarvester.
@@ -22,7 +22,7 @@
 ---
 
 ### **Module 03: Scanning Networks**
-- [x] Completed ✅
+- [ ] Pending ✔️
 - **Objectives:**
   - Perform network scanning using tools like Nmap, Netcat, and hping3.
   - Identify live hosts, open ports, and services.
@@ -32,7 +32,7 @@
 ---
 
 ### **Module 04: Enumeration**
-- [x] Completed ✅
+- [ ] Pending ✔️
 - **Objectives:**
   - Gather information such as usernames, group names, shares, and services.
   - Enumerate NetBIOS, SNMP, LDAP, and SMB services.
@@ -41,7 +41,7 @@
 ---
 
 ### **Module 05: Vulnerability Analysis**
-- [x] Completed ✅
+- [ ] Pending ✔️
 - **Objectives:**
   - Learn vulnerability scanning methodology.
   - Use scanners like Nessus, OpenVAS, Nikto, and Qualys.
@@ -51,7 +51,7 @@
 ---
 
 ### **Module 06: System Hacking**
-- [ ] WIP ❌
+- [ ] Pending ✔️
 - **Objectives:**
   - Understand password cracking, privilege escalation, and maintaining access.
   - Use tools like Mimikatz, Metasploit, and John the Ripper.
